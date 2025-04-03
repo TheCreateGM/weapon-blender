@@ -1,5 +1,5 @@
 # weapon-blender
-some of old project that still work on using blender
+some of old project that still working on using blender
 
 ![](Event.png)
 
